@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/nataliatorres/aussie-facts.git"
   },
-  "keywords": [],
+  "keywords": ["javascript", "australia", "facts"],
   "author": "Natalia Torres Rojas <nataliatorresrojas@gmail.com>",
   "license": "MIT",
   "type": "commonjs",
