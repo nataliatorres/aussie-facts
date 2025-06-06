@@ -1,0 +1,25 @@
+{
+  "name": "aussie-facts",
+  "version": "1.0.0",
+  "description": "Random string Australian facts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliatorres/aussie-facts.git"
+  },
+  "keywords": [],
+  "author": "Natalia Torres Rojas <nataliatorresrojas@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nataliatorres/aussie-facts/issues"
+  },
+  "homepage": "https://github.com/nataliatorres/aussie-facts#readme",
+  "bin": {
+    "aussie-facts": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
